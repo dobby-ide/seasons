@@ -8,3 +8,5 @@ will launch a browser on localhost:3000
 
 #Class based components
 #Semantic ui icons
+#Spinner(Loader)
+#Avoid conditionals renderings
